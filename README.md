@@ -1,4 +1,4 @@
-My Obsidian Notes
+#My Obsidian Notes
 This repository contains my personal Obsidian vault, serving as a centralized knowledge base for my studies, personal projects, and daily life management.
 
 About This Repository
