@@ -1,9 +1,7 @@
-#.obsidian
-#.bak
-#.temp
-#.obsidian/.bak
-#.obsidian/sync.json
-#.obsidian/plugins//data.json
-#.obsidian/plugins/*/main.js.map
-#~
+.obsidian/
+.bak
+.temp
+~
 #.tmp
+#
+Family/
